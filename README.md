@@ -12,7 +12,29 @@ layout_main = QVBoxLayout()
 layoutH1 = QHBoxLayout()
 layoutH2 = QHBoxLayout()
 layoutH3 = QHBoxLayout()
-|||||||
+layoutH4 = QHBoxLayout()
+
+layoutV1 = QVBoxLayout()
+layoutV2 = QVBoxLayout()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
