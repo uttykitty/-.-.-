@@ -17,19 +17,9 @@ layoutH4 = QHBoxLayout()
 layoutV1 = QVBoxLayout()
 layoutV2 = QVBoxLayout()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+layout_mainaddLayout(layoutH1)
+layout_mainaddLayout(layoutH2)
+layout_mainaddLayout(layoutH3)
 
 
 
